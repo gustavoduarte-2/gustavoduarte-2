@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Banner Gustavo Duarte" width="100%">
+<img src="banner-gustavo.png" alt="Banner Gustavo Duarte" width="100%">
 
 </div>
 
